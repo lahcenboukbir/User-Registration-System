@@ -51,7 +51,9 @@ The file should be initially empty ([]).
 Ensure you have a PHP server running. You can use XAMPP, WAMP, MAMP, or a similar local server setup.
 
 4. **Place the Files**:
-Place signup.php, login.php, profile.php, and logout.php in the root directory of your PHP server.5. Access the Application:
+Place signup.php, login.php, profile.php, and logout.php in the root directory of your PHP server.
+
+6. **Access the Application**:
 Open your browser and navigate to http://localhost/signup.php to start using the application.
 
 ## Usage
